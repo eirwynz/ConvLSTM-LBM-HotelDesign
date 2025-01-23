@@ -12,7 +12,7 @@ The project presented at MIT's Introduction to Deep Learning course proposes an 
 
 Watch the project presentation video to see our approach, methodology, and results:
 
-[![Project Video](https://i.vimeocdn.com/video/123456789.jpg)](https://vimeo.com/your-video-id)
+[![Project Video]](https://vimeo.com/1049812306)
 
 ## Slides
 
