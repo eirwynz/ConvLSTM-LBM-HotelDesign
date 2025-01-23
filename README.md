@@ -12,7 +12,7 @@ The project presented at MIT's Introduction to Deep Learning course proposes an 
 
 Watch the project presentation video to see our approach, methodology, and results:
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1049812306?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MIT Deep Learning 6.S191 - Project Presentation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Project Video](https://i.vimeocdn.com/video/1049812306_1280x720.jpg)](https://vimeo.com/1049812306?ts=0&share=copy)
 
 ## Slides
 
