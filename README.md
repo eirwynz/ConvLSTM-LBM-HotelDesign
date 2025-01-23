@@ -23,7 +23,7 @@ For a detailed look at the project through our slides:
 ## About the Project
 
 - **Team**: Heidi Ongkowijaya, Eirwyn Zhang, Hamza Naeem, Khubaib Khan
-- **Affiliation**: MIT Introduction to Deep Learning (6.S191)
+- **Affiliation**: Cornell University, Carnegie Mellon University, Northeastern University, MIT Introduction to Deep Learning (6.S191)
 - **Course Instructors**: Alexander Amini, Ava Amini
 - **Project Focus**: Fluid Dynamics Simulation, Deep Learning, Hotel Development
 
