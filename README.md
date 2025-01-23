@@ -2,7 +2,7 @@
 
 **Project Overview:**
 
-This project introduces an innovative approach to revolutionize fluid dynamics simulation in boutique hotel development. By leveraging a Convolutional LSTM (ConvLSTM) neural network architecture applied to the Lattice Boltzmann Method (LBM), we aim to optimize HVAC systems, thermal comfort, and building airflow, addressing the cost and efficiency challenges in hotel design.
+This project demonstrates an innovative approach to revolutionize fluid dynamics simulation in boutique hotel development. By leveraging a Convolutional LSTM (ConvLSTM) neural network architecture applied to the Lattice Boltzmann Method (LBM), we aim to optimize HVAC systems, thermal comfort, and building airflow, addressing the cost and efficiency challenges in hotel design.
 
 ## Executive Summary
 
@@ -12,7 +12,7 @@ The project presented at MIT's Introduction to Deep Learning course proposes an 
 
 Watch the project presentation video to see our approach, methodology, and results:
 
-[![Project Video]](https://vimeo.com/1049812306)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1049812306?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MIT Deep Learning 6.S191 - Project Presentation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Slides
 
@@ -34,15 +34,3 @@ We extend our gratitude to guest lecturers Peter Grabowski and Maxime Labonne fo
 ## Resources
 
 - [Introduction to Deep Learning at MIT](https://introtodeeplearning.com/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For inquiries or collaboration, please contact us via GitHub.
-
----
-
-Feel free to contribute or raise issues if you have any suggestions or find any bugs!
